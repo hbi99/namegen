@@ -10,5 +10,5 @@ Usage
 var names = namegen(5);
 
 console.log( names );
-// ["pelara", "acrora", "smoanus", "eoplora", "chouulara"]
+// ["pelara", "acrora", "sniylea", "eoplora", "chouulara"]
 ```
